@@ -1,0 +1,78 @@
+.purpose {
+    text-align: center;
+    background-color: lightblue;
+}
+
+.purpose ul {
+    list-style-type: none;
+}
+.purpose li {
+    text-decoration: none;
+    margin: 25px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.flow1 {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightblue;
+}
+
+.flow1 i {
+    align-items: center;
+    margin: 5%;
+}
+
+.flow1 img {
+    width: 20%;
+    height: 20%;
+}
+
+.flow2 {
+    display: flex;
+    background-color: lightblue;
+    flex-wrap: wrap;
+}
+
+.flow2 i {
+    align-items: center;
+    margin: 10%;
+}
+
+.flow2 img {
+    width: 20%;
+    height: 20%;
+}
+
+
+.briefnquestions {
+    display: flex;
+}
+
+.briefnquestions img {
+    width:20%;
+}
+
+.flow p {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.lofi {
+    text-align: center;
+}
+
+.lofi img {
+    width: 45%;
+    height: 45%;
+}
