@@ -51,6 +51,39 @@ h3 {
     height: 20%;
 }
 
+.flow3 {
+    display: flex;
+    background-color: lightblue;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.flow3 i {
+    align-items: center;
+    margin: 10%;
+}
+
+.flow3 img {
+    width: 20%;
+    height: 20%;
+}
+
+.flow4 {
+    display: flex;
+    background-color: lightblue;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.flow4 i {
+    align-items: center;
+    margin: 10%;
+}
+
+.flow4 img {
+    width: 20%;
+    height: 20%;
+}
 
 .briefnquestions {
     display: flex;
@@ -75,4 +108,23 @@ p {
 .lofi img {
     width: 45%;
     height: 45%;
+}
+
+.protype img {
+    width: 45%;
+    height: 45%;
+}
+
+.protype {
+    text-align: center;
+    background-color: lightblue;
+}
+
+.hifi img {
+    width: 45%;
+    height: 45%;
+}
+
+.hifi {
+    text-align: center;
 }
